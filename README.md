@@ -13,3 +13,6 @@ Shadowsocks流量管理脚本
 
 
 [User Manual]:    https://github.com/hellofwy/ss-bash/wiki
+
+多用户流量监控
+https://www.flyzy2005.com/fan-qiang/shadowsocks/multiple-users-and-traffic-limited/
